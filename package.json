@@ -1,7 +1,7 @@
 {
     "type": "module",
     "name": "@xpop.it/xtestnpm2549",
-    "version": "0.4.7",
+    "version": "0.4.8",
     "developmentVersion": "0.12.0",
     "description": "",
     "main": "./dist/index.js",
